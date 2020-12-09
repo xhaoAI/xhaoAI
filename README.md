@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xhaoAI/xhaoAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm XhaoAI</h1>
 <h3 align="center">A passionate developer from china</h3>
 
-- 🔭 I’m currently working on [ST-prediction](https://github.com/xhaoAI/ST-prediction)
+- 🔭 I’m currently working on [SpatioTemporal analysis and prediction](https://github.com/xhaoAI/ST-Analy-And-Pred)
 - 🌱 I’m currently learning **ML, RL, Transportation**
 - 👯 I’m looking to collaborate on **Alibaba, Baidu, Huawei**
 - 🤔 I’m looking for help with **ML, RL, Big data**
