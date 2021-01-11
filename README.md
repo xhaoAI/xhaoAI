@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm XhaoAI</h1>
-<h3 align="center">A passionate developer from china</h3>
+<h3 align="center">A passionate developer from China</h3>
 
 - 🔭 I’m currently working on [SpatioTemporal analysis and prediction](https://github.com/xhaoAI/ST-Analy-And-Pred)
 - 🌱 I’m currently learning **ML, RL, Transportation**
